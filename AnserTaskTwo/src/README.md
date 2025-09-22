@@ -50,3 +50,5 @@ C:\Users\User\PycharmProjects\AnserTaskTwo\.venv\Scripts\python.exe C:\Users\Use
 00:09:55 - INFO - [00:09:55] Удалена временная директория: build_output
 00:09:55 - INFO - [00:09:55] Завершено: Очистка временных файлов (время: 0.01с)
 
+Альтернативный вариант запуска - python test_build.py
+-
