@@ -2,4 +2,6 @@
 
 * Первое тестовое задание - [Ссылка](https://github.com/xaivan95/TestTaskPython/blob/main/AnserTaskOne/README.md)
 * Второе тестовое задание - [Ссылка](https://github.com/xaivan95/TestTaskPython/blob/main/AnserTaskTwo/src/README.md)
+* Третие тестовое задание - [Ссылка](https://github.com/xaivan95/TestTaskPython/blob/main/AnserTaskThree/README.md)
 
+Версия Python - 3.11
